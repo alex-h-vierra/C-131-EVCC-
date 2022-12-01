@@ -1,0 +1,3 @@
+C:/Users/alexv/C++ 131/Lab 4/cmake-build-debug/CMakeFiles/Lab_4.dir
+C:/Users/alexv/C++ 131/Lab 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alexv/C++ 131/Lab 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
