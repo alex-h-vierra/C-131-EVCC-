@@ -1,0 +1,3 @@
+C:/Users/alexv/C++ 131/MakingPeople/cmake-build-debug/CMakeFiles/MakingPeople.dir
+C:/Users/alexv/C++ 131/MakingPeople/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alexv/C++ 131/MakingPeople/cmake-build-debug/CMakeFiles/rebuild_cache.dir
